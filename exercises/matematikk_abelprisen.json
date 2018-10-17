@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "Uke 12",
+            "Uke 13",
+            "Uke 20",
+            "Uke 21"
+        ],
+        "question": "Når deles Abelprisen ut?"
+    },
+    "answer": {
+        "text": "Uke 21"
+    }
+}

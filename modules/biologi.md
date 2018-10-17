@@ -1,0 +1,1 @@
+<quiz-with-navigation :exercises="['biologi_celledeling']"></quiz-with-navigation>

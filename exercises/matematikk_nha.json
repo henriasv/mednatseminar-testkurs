@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "Vigelandsparken",
+            "Slottsparken",
+            "Ekebergparken",
+            "Vår Frelsers Gravlund"
+        ],
+        "question": "Hvor står det en statue av Niels Henrik Abel?"
+    },
+    "answer": {
+        "text": "Slottsparken"
+    }
+}

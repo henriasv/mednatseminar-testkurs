@@ -1,0 +1,66 @@
+{
+    "version": 2,
+    "repo": "henriasv/mednatseminar-testkurs",
+    "header" : {
+      "background" : "uio_realfagsbiblioteket_min.svg",
+      "text" : "Matnat minimum"
+    },
+    
+    "footer": {
+      "publishers": [
+        {
+          "label": "Realfagsbiblioteket",
+          "link": "https://www.ub.uio.no/bibliotekene/ureal/ureal/"
+        }
+      ],
+      "editor": {
+        "label": "Nettredaktør",
+        "link": "mailto:ub-web@ub.uio.no"
+      }
+    },
+  
+    "options": {
+      "show_privacy_statement": false
+    },
+  
+    "modules": [
+      {
+        "id": "geologi",
+        "image": "geologi.jpg",
+        "name": "Geologi"
+      },
+      {
+        "id": "kjemi",
+        "image": "kjemi.jpg",
+        "name": "Kjemi"
+      },
+      {
+        "id": "matematikk",
+        "image": "matematikk.jpg",
+        "name": "Matematikk"
+      },
+      {
+        "id": "informatikk",
+        "image": "informatikk.jpg",
+        "name": "Informatikk"
+      },
+      {
+        "id": "fysikk",
+        "image": "fysikk.jpg",
+        "name": "Fysikk"
+      },
+      {
+        "id": "astrofysikk",
+        "image": "astrofysikk.jpg",
+        "name": "Astrofysikk"
+      },
+      {
+        "id": "biologi",
+        "image": "biologi.jpg",
+        "name": "Biologi"
+      }
+    ]
+  }
+  
+  
+  

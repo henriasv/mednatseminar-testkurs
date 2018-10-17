@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "Et stoff som består av atomer med samme antall protoner i atomkjernen.",
+            "Et stoff som består av atomer med samme antall elektroner i atomkjernen.",
+            "Et stoff som består av atomer med samme antall nøytroner i atomkjernen.",
+            "Molekyler som inngår i et grunnleggende kosthold"
+        ],
+        "question": "Hva er et grunnstoff?"
+    },
+    "answer": {
+        "text": "Et stoff som består av atomer med samme antall protoner i atomkjernen."
+    }
+}

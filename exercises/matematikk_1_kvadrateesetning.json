@@ -1,0 +1,15 @@
+ {
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "(a+b)²=a²+b²",
+            "(a+b)²=a²-2ab+b²",
+            "(a+b)²=a²-b²",
+            "(a+b)²=a²+2ab+b²"
+        ],
+        "question": "Hva sier første kvadratsetning?"
+    },
+    "answer": {
+        "text": "(a+b)²=a²+2ab+b²"
+    }
+}

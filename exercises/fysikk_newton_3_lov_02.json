@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "Summen av kreftene er null",
+            "Summen av kreftene er konstant",
+            "Akselerasjonen er konstant",
+            "Posisjonen er konstant"
+        ],
+        "question": "Hva kjennetegner et legeme som holder konstant hastighet?"
+    },
+    "answer": {
+        "text": "Summen av kreftene er null"
+    }
+}

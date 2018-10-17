@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "Summen av kreftene er null",
+            "Summen av kreftene er konstant",
+            "Akselerasjonen er konstant",
+            "Hastigheten er konstant"
+        ],
+        "question": "Hva kjennetegner et legeme som ligger i ro over tid?"
+    },
+    "answer": {
+        "text": "Summen av kreftene er null"
+    }
+}

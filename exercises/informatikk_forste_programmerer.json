@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "Charles Babbage",
+            "Alan Turing",
+            "Ada Lovelace"
+        ],
+        "question": "Hvem anses for å være verdens første programmerer?"
+    },
+    "answer": {
+        "text": "Ada Lovelace"
+    }
+}
+
