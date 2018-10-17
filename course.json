@@ -58,6 +58,11 @@
         "id": "biologi",
         "image": "biologi.jpg",
         "name": "Biologi"
+      },
+      {
+        "id": "farmasi",
+        "image": "famasi.jpg",
+        "name": "Farmasi"
       }
     ]
   }

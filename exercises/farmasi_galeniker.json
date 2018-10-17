@@ -1,0 +1,13 @@
+
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "En person som er spesialist i galeniske preparater."
+        ],
+        "question": "Hva er en galeniker?"
+    },
+    "answer": {
+        "text": "En person som er spesialist i galeniske preparater."
+    }
+}
