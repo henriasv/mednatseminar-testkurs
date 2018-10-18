@@ -1,1 +1,1 @@
-<quiz-with-navigation :exercises="['biologi_celledeling']"></quiz-with-navigation>
+<quiz-with-navigation :exercises="['biologi_celledeling']">Her?</quiz-with-navigation>
