@@ -3,12 +3,14 @@
     "type": "MultipleChoiceQuestion",
     "content": {
         "alternatives": [
-            "Læren om bruksferdige legemidler.
-"
+            "Læren om farmasiens historie",
+            "Læren om bruksferdige legemidler",
+            "Læren om legemidlenes virkning"            
+
         ],
         "question": "Hva er galenisk farmasi?"
     },
     "answer": {
-        "text": "Læren om bruksferdige legemidler."
+        "text": "Læren om bruksferdige legemidler"
     }
 }
