@@ -3,11 +3,12 @@
     "type": "MultipleChoiceQuestion",
     "content": {
         "alternatives": [
-            "En person som er spesialist i galeniske preparater."
+            "Læren om bruksferdige legemidler.
+"
         ],
-        "question": "Hva er en galeniker?"
+        "question": "Hva er galenisk farmasi?"
     },
     "answer": {
-        "text": "En person som er spesialist i galeniske preparater."
+        "text": "Læren om bruksferdige legemidler."
     }
 }
