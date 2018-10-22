@@ -26,42 +26,42 @@
     "modules": [
       {
         "id": "geologi",
-        "image": "geologi.jpg",
+        "image": "geologi.png",
         "name": "Geologi"
       },
       {
         "id": "kjemi",
-        "image": "kjemi.jpg",
+        "image": "kjemi.png",
         "name": "Kjemi"
       },
       {
         "id": "matematikk",
-        "image": "matematikk.jpg",
+        "image": "matematikk.png",
         "name": "Matematikk"
       },
       {
         "id": "informatikk",
-        "image": "informatikk.jpg",
+        "image": "informatikk.png",
         "name": "Informatikk"
       },
       {
         "id": "fysikk",
-        "image": "fysikk.jpg",
+        "image": "fysikk.png",
         "name": "Fysikk"
       },
       {
         "id": "astrofysikk",
-        "image": "astrofysikk.jpg",
+        "image": "astrofysikk.png",
         "name": "Astrofysikk"
       },
       {
         "id": "biologi",
-        "image": "biologi.jpg",
+        "image": "biologi.png",
         "name": "Biologi"
       },
       {
         "id": "farmasi",
-        "image": "farmasi.jpg",
+        "image": "farmasi.png",
         "name": "Farmasi"
       }
     ]
