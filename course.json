@@ -20,7 +20,7 @@
     },
   
     "options": {
-      "show_privacy_statement": false
+      "show_privacy_statement": true
     },
   
     "modules": [
