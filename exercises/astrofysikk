@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "Mitose",
+            "Eukaryose",
+            "Cytokinese",
+            "Meiose"
+        ],
+        "question": "Hvilken type celledeling fører til dannelse av kjønnsceller?"
+    },
+    "answer": {
+        "text": "Meiose"
+    }
+}
