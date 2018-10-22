@@ -2,14 +2,14 @@
     "type": "MultipleChoiceQuestion",
     "content": {
         "alternatives": [
-            "Mitose",
-            "Eukaryose",
-            "Cytokinese",
-            "Meiose"
+            "3",
+            "4",
+            "6",
+            "5"
         ],
-        "question": "Hvilken type celledeling fører til dannelse av kjønnsceller?"
+        "question": "Hvor mange steinplaneter har vi i vårt solsystem?"
     },
     "answer": {
-        "text": "Meiose"
+        "text": "4"
     }
 }
