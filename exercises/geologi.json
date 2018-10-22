@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "John Tuzo Wilson",
+            "Lord Kelvin",
+            "Alfred Wegener",
+            "Aristoteles"
+        ],
+        "question": "Hvem formulerte teorien om kontinentaldrift?"
+    },
+    "answer": {
+        "text": "Alfred Wegener"
+    }
+}
